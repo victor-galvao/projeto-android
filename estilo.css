@@ -1,0 +1,45 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Ephesis';
+    src: url(ephesis-regular.ttf);
+}
+
+
+body {
+    background-color: #A3A1A8;
+}
+h1 {
+    background-color: #FFF587;
+    color: #FF665A;
+    font-family: 'Ephesis';
+    text-align: center;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: -100px;
+}
+
+h2 {
+    background-color: #FFF587;
+    color: #FF665A;
+    font-family: 'Ephesis';
+    text-align: center;
+    width: 300px;
+}
+
+p {
+    background-color: #7D6B7D;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+}
+
+img {
+    width: 400px;
+    margin-left: 450px;
+    margin-top: -100px;
+}
+
+h1:hover {
+    color: #7D6B7D;
+    
+}
